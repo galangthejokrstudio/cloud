@@ -43,6 +43,6 @@
             </div>
             {/each}
         </div>
-        <p class="text-center opacity-70 text-xs mt-6">Made with ❤️ by UnoxDevs</p>
+        <p class="text-center opacity-70 text-xs mt-6">Made with ❤️ by LangDev</p>
     </div>
 </footer>
