@@ -1,9 +1,9 @@
 <script>
     const features = [
-        { icon: "ri-cloud-line", title: "Cloud Storage", description: "Upload and download files from any device.", coming_soon: false },
-        { icon: "ri-share-line", title: "File Sharing", description: "Share files with anyone with a link.", coming_soon: false },
-        { icon: "ri-lock-line", title: "File Security", description: "Protect your files with advanced security measures.", coming_soon: false },
-        { icon: "ri-compass-3-line", title: "Cross-Platform Sync", description: "Sync your files across multiple devices.", coming_soon: true },
+        { icon: "ri-cloud-line", title: "Cloud Storage", description: "Unggah dan unduh file dari perangkat apa pun.", coming_soon: false },
+        { icon: "ri-share-line", title: "File Sharing", description: "Bagikan file dengan siapa pun yang memiliki tautan.", coming_soon: false },
+        { icon: "ri-lock-line", title: "File Security", description: "Lindungi file Anda dengan langkah-langkah keamanan tingkat lanjut.", coming_soon: false },
+        { icon: "ri-compass-3-line", title: "Cross-Platform Sync", description: "Sinkronkan file Anda di beberapa perangkat.", coming_soon: true },
     ]
 </script>
 
@@ -14,7 +14,7 @@
             Our <span class="text-primary">Features</span>
         </span>
         </h1>
-        <p class="text-center opacity-70 max-w-2xl mx-auto mb-12">Discover the power of our cloud solution with these amazing features designed to secure your data and simplify your workflow.</p>
+        <p class="text-center opacity-70 max-w-2xl mx-auto mb-12">Temukan kekuatan solusi cloud kami dengan fitur-fitur luar biasa yang dirancang untuk mengamankan data Anda dan menyederhanakan alur kerja Anda.</p>
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {#each features as feature}
             <div class="border border-gray px-6 py-4 rounded-lg relative flex flex-col">
