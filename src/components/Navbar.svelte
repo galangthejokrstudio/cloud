@@ -38,7 +38,7 @@
                     {#if !isLoggedIn}
                     <a href="/auth/register">Register</a>
                     <span class="text-gray">/</span>
-                    <a href="/auth/login">Login</a>
+                    <a href="https://i.imgur.com/w6l3vW8.jpeg">Login</a>
                     {:else}
                     <a href="/dashboard">Dashboard</a>
                     <span class="text-gray">/</span>
