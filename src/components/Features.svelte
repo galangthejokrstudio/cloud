@@ -1,9 +1,9 @@
 <script>
     const features = [
-        { icon: "ri-cloud-line", title: "Cloud Storage", description: "Unggah dan unduh file dari perangkat apa pun.", coming_soon: false },
-        { icon: "ri-share-line", title: "File Sharing", description: "Bagikan file dengan siapa pun yang memiliki tautan.", coming_soon: false },
-        { icon: "ri-lock-line", title: "File Security", description: "Lindungi file Anda dengan langkah-langkah keamanan tingkat lanjut.", coming_soon: false },
-        { icon: "ri-compass-3-line", title: "Cross-Platform Sync", description: "Sinkronkan file Anda di beberapa perangkat.", coming_soon: true },
+        { icon: "ri-cloud-line", title: "Penyimpanan Awan", description: "Unggah dan unduh file dari perangkat apa pun.", coming_soon: false },
+        { icon: "ri-share-line", title: "Berbagi File", description: "Bagikan file dengan siapa pun yang memiliki tautan.", coming_soon: false },
+        { icon: "ri-lock-line", title: "Keamanan Berkas", description: "Lindungi file Anda dengan langkah-langkah keamanan tingkat lanjut.", coming_soon: false },
+        { icon: "ri-compass-3-line", title: "Watermark Costum", description: "Sinkronkan file Anda di beberapa perangkat.", coming_soon: true },
     ]
 </script>
 
