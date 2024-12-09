@@ -38,7 +38,7 @@
                     {#if !isLoggedIn}
                     <a href="/auth/register">Register</a>
                     <span class="text-gray">/</span>
-                    <a href="https://i.imgur.com/w6l3vW8.jpeg">Login</a>
+                    <a href="https://i.imgur.com/w6l3vW8.jpeg">Upload</a>
                     {:else}
                     <a href="/dashboard">Dashboard</a>
                     <span class="text-gray">/</span>
@@ -64,7 +64,7 @@
                 <li><a href="#faq" class="block py-2">FAQ</a></li>
                 {#if !isLoggedIn}
                 <li><a href="/auth/register" class="block py-2">Register</a></li>
-                <li><a href="/auth/login" class="block py-2">Login</a></li>
+                <li><a href="https://i.imgur.com/w6l3vW8.jpeg" class="block py-2">Upload</a></li>
                 {:else}
                 <li><a href="/dashboard" class="block py-2">Dashboard</a></li>
                 <li><button on:click={logout} class="block py-2">Log Out</button></li>
